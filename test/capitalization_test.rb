@@ -1,8 +1,8 @@
 require 'minitest/autorun'
 require 'string/namecase'
 
-class String::NamecaseTest < Minitest::Test
-  def test_namecase
+class CapitalizationTest < Minitest::Test
+  def test_capitalization
     assert_equal "Tate", "TATE".namecase #basic upcase
     assert_equal "Smith", "smith".namecase #basic downcase
     assert_equal "Clarke", "cLaRKe".namecase #basic mix
