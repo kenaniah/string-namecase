@@ -1,5 +1,8 @@
 # String::Namecase
 
+[![Gem Version](https://badge.fury.io/rb/string-namecase.svg)](https://badge.fury.io/rb/string-namecase)
+[![Build Status](https://secure.travis-ci.org/kenaniah/string-namecase.svg)](http://travis-ci.org/kenaniah/string-namecase)
+
 Simple proper name capitalization that handles (most) edge cases.
 
 PRs are welcome for any cases that were missed!

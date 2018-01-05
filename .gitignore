@@ -7,3 +7,4 @@
 /tmp/
 /test/reports
 Gemfile.lock
+*.gem
